@@ -1,0 +1,7 @@
+{
+  "name": "Elite Gold Gym Aplicación",
+  "description": "A premium gym management and registration portal featuring a sleek black and gold aesthetic with an AI-powered fitness concierge.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
